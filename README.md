@@ -142,3 +142,7 @@ Wayfire is a wayland compositor based on wlroots. It aims to create a customizab
 ## FYI
 - May or may not work on [**`Nvidia`**](https://wiki.archlinux.org/title/wayland#Requirements).
 - Thank you for your support.
+
+---
+
+**See also** : [`archcraft-sway`](https://github.com/archcraft-os/archcraft-sway)
