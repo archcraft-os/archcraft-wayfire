@@ -1,6 +1,6 @@
 <h1 align="center">WAYFIRE</h1>
 
-[![Wayfire Main Video](https://img.youtube.com/vi/PXEerGOE8hc/maxresdefault.jpg)](https://youtu.be/PXEerGOE8hc)
+[![Wayfire Main Video](screenshot.png)](https://youtu.be/PXEerGOE8hc)
 
 <p align="center">The ultimate Wayfire configuration (A Desktop Environment Like Experience)</p>
 
