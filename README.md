@@ -1,6 +1,6 @@
 <h1 align="center">WAYFIRE</h1>
 
-[![Wayfire Main Video](https://img.youtube.com/vi/PXEerGOE8hc/maxresdefault.jpg)](https://youtu.be/PXEerGOE8hc)
+[![Wayfire Main Video](https://img.youtube.com/vi/PXEerGOE8hc/mqdefault.jpg)](https://youtu.be/PXEerGOE8hc)
 
 <p align="center">The ultimate Wayfire configuration (A Desktop Environment Like Experience)</p>
 
@@ -108,35 +108,35 @@ Wayfire is a wayland compositor based on wlroots. It aims to create a customizab
 
 | Startup | Application Launcher |
 | --- | --- |
-|[![Watch the video](https://img.youtube.com/vi/rb7esBfdYvA/maxresdefault.jpg)](https://youtu.be/rb7esBfdYvA)|[![Watch the video](https://img.youtube.com/vi/3KT9lZd6tuQ/maxresdefault.jpg)](https://youtu.be/3KT9lZd6tuQ)|
+|[![Watch the video](https://img.youtube.com/vi/rb7esBfdYvA/mqdefault.jpg)](https://youtu.be/rb7esBfdYvA)|[![Watch the video](https://img.youtube.com/vi/3KT9lZd6tuQ/mqdefault.jpg)](https://youtu.be/3KT9lZd6tuQ)|
 
 | Opening and closing apps | Moving and Resizing |
 | --- | --- |
-|[![Watch the video](https://img.youtube.com/vi/qdLq9SHcKuA/maxresdefault.jpg)](https://youtu.be/qdLq9SHcKuA)|[![Watch the video](https://img.youtube.com/vi/Bt9uFceTRVw/maxresdefault.jpg)](https://youtu.be/Bt9uFceTRVw)|
+|[![Watch the video](https://img.youtube.com/vi/qdLq9SHcKuA/mqdefault.jpg)](https://youtu.be/qdLq9SHcKuA)|[![Watch the video](https://img.youtube.com/vi/Bt9uFceTRVw/mqdefault.jpg)](https://youtu.be/Bt9uFceTRVw)|
 
 | Zooming and Fisheye | Rotating Windows |
 | --- | --- |
-|[![Watch the video](https://img.youtube.com/vi/D8prWw1av2Q/maxresdefault.jpg)](https://youtu.be/D8prWw1av2Q)|[![Watch the video](https://img.youtube.com/vi/Bv7Zx-BDC7M/maxresdefault.jpg)](https://youtu.be/Bv7Zx-BDC7M)|
+|[![Watch the video](https://img.youtube.com/vi/D8prWw1av2Q/mqdefault.jpg)](https://youtu.be/D8prWw1av2Q)|[![Watch the video](https://img.youtube.com/vi/Bv7Zx-BDC7M/mqdefault.jpg)](https://youtu.be/Bv7Zx-BDC7M)|
 
 | Window Management | Task Switcher |
 | --- | --- |
-|[![Watch the video](https://img.youtube.com/vi/qRJ2IG_UqV8/maxresdefault.jpg)](https://youtu.be/qRJ2IG_UqV8)|[![Watch the video](https://img.youtube.com/vi/SbvYeLsk4o0/maxresdefault.jpg)](https://youtu.be/SbvYeLsk4o0)|
+|[![Watch the video](https://img.youtube.com/vi/qRJ2IG_UqV8/mqdefault.jpg)](https://youtu.be/qRJ2IG_UqV8)|[![Watch the video](https://img.youtube.com/vi/SbvYeLsk4o0/mqdefault.jpg)](https://youtu.be/SbvYeLsk4o0)|
 
 | Viewport switcher | Cube : Workspace |
 | --- | --- |
-|[![Watch the video](https://img.youtube.com/vi/wUHCLc_o1r0/maxresdefault.jpg)](https://youtu.be/wUHCLc_o1r0)|[![Watch the video](https://img.youtube.com/vi/z4jJZMc4rZc/maxresdefault.jpg)](https://youtu.be/z4jJZMc4rZc)|
+|[![Watch the video](https://img.youtube.com/vi/wUHCLc_o1r0/mqdefault.jpg)](https://youtu.be/wUHCLc_o1r0)|[![Watch the video](https://img.youtube.com/vi/z4jJZMc4rZc/mqdefault.jpg)](https://youtu.be/z4jJZMc4rZc)|
 
 | Expo : Workspace | Scale : Applications |
 | --- | --- |
-|[![Watch the video](https://img.youtube.com/vi/P_3-DKxfzDY/maxresdefault.jpg)](https://youtu.be/P_3-DKxfzDY)|[![Watch the video](https://img.youtube.com/vi/56nkD4zIj30/maxresdefault.jpg)](https://youtu.be/56nkD4zIj30)|
+|[![Watch the video](https://img.youtube.com/vi/P_3-DKxfzDY/mqdefault.jpg)](https://youtu.be/P_3-DKxfzDY)|[![Watch the video](https://img.youtube.com/vi/56nkD4zIj30/mqdefault.jpg)](https://youtu.be/56nkD4zIj30)|
 
 | Session Manager | Notifications |
 | --- | --- |
-|[![Watch the video](https://img.youtube.com/vi/RxMXymcozXo/maxresdefault.jpg)](https://youtu.be/RxMXymcozXo)|[![Watch the video](https://img.youtube.com/vi/7lVr7jjXXT4/maxresdefault.jpg)](https://youtu.be/7lVr7jjXXT4)|
+|[![Watch the video](https://img.youtube.com/vi/RxMXymcozXo/mqdefault.jpg)](https://youtu.be/RxMXymcozXo)|[![Watch the video](https://img.youtube.com/vi/7lVr7jjXXT4/mqdefault.jpg)](https://youtu.be/7lVr7jjXXT4)|
 
 | Invert |
 | --- |
-|[![Watch the video](https://img.youtube.com/vi/LuBZHFAkWWo/maxresdefault.jpg)](https://youtu.be/LuBZHFAkWWo)|
+|[![Watch the video](https://img.youtube.com/vi/LuBZHFAkWWo/mqdefault.jpg)](https://youtu.be/LuBZHFAkWWo)|
 
 ## FYI
 - May or may not work on [**`Nvidia`**](https://wiki.archlinux.org/title/wayland#Requirements).
