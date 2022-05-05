@@ -62,6 +62,7 @@ Wayfire is a wayland compositor based on wlroots. It aims to create a customizab
 | <kbd>super + N</kbd> | Open network manager |
 | <kbd>super + X</kbd> | Run session manager |
 | <kbd>super + P</kbd> | Run colorpicker |
+| <kbd>super + C/Q</kbd> | Kill active window |
 | <kbd>ctrl + alt + L</kbd> | Run lockscreen |
 | <kbd>super + ctrl + F</kbd> | Toggle fisheye effect |
 | <kbd>super + Z</kbd> | Toggle idle |
