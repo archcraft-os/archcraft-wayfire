@@ -148,6 +148,6 @@ Wayfire is a wayland compositor based on wlroots. It aims to create a customizab
 
 ### See Also
 
-| [**`archcraft-river`**](https://github.com/archcraft-os/archcraft-river) | [**`archcraft-sway`**](https://github.com/archcraft-os/archcraft-sway) |
-| --- | --- |
-|[![River](https://raw.githubusercontent.com/archcraft-os/archcraft-river/main/screenshots/River_4.png)](https://github.com/archcraft-os/archcraft-river)|[![Sway](https://raw.githubusercontent.com/archcraft-os/archcraft-sway/main/screenshots/sway_6.png)](https://github.com/archcraft-os/archcraft-sway)|
+| [**`archcraft-river`**](https://github.com/archcraft-os/archcraft-river) | [**`archcraft-sway`**](https://github.com/archcraft-os/archcraft-sway) | [**`archcraft-hyprland`**](https://github.com/archcraft-os/archcraft-hyprland) |
+| --- | --- | --- |
+|[![River](https://raw.githubusercontent.com/archcraft-os/archcraft-river/main/screenshots/River_4.png)](https://github.com/archcraft-os/archcraft-river)|[![Sway](https://raw.githubusercontent.com/archcraft-os/archcraft-sway/main/screenshots/sway_6.png)](https://github.com/archcraft-os/archcraft-sway)|[![Hyprland](https://raw.githubusercontent.com/archcraft-os/archcraft-hyprland/main/screenshots/dark/hypr_dark_2.png)](https://github.com/archcraft-os/archcraft-hyprland)|
