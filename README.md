@@ -22,7 +22,7 @@ Wayfire is a wayland compositor based on wlroots. It aims to create a customizab
 - **Web Browser** : `Firefox`
 
 ## Installation
-- Get the files from : [Ko-fi :coffee:](https://ko-fi.com/s/f379e986f4)
+- Get the files from : [Ko-fi :coffee:](https://ko-fi.com/s/f379e986f4) <sup>[**`Why Paid`**](https://github.com/adi1090x/adi1090x/blob/master/WHY.md)</sup>
 - Extract The file **wayfire.tar.gz** with : `tar -xzvf wayfire.tar.gz`
 - If you are using **`Archcraft`** as your OS, You can just install the provided package with : `sudo pacman -U archcraft-wayfire-1.0-2-any.pkg.tar.zst`
 - If you want to install this setup on _Arch Linux_ or on any _other distro_, follow the points below :
