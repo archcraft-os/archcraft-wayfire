@@ -24,7 +24,7 @@ Wayfire is a wayland compositor based on wlroots. It aims to create a customizab
 ## Installation
 - Get the files from : [Ko-fi :coffee:](https://ko-fi.com/s/f379e986f4) <sup>[**`Why Paid`**](https://github.com/adi1090x/adi1090x/blob/master/WHY.md)</sup>
 - Extract The file **wayfire.tar.gz** with : `tar -xzvf wayfire.tar.gz`
-- If you are using **`Archcraft`** as your OS, You can just install the provided package with : `sudo pacman -U archcraft-wayfire-1.0-2-any.pkg.tar.zst`
+- If you are using **`Archcraft`** as your OS, You can just install the provided package with : `sudo pacman -U archcraft-wayfire-1.0-3-any.pkg.tar.zst`
 - If you want to install this setup on _Arch Linux_ or on any _other distro_, follow the points below :
   - Install the following programs on your computer: `wayfire` `swaybg` `swayidle` `swaylock` `wlroots` `wl-clipboard` `waybar` `wofi`  `kanshi` `foot` `mako` `grim` `slurp` `wf-recorder` `light` `yad` `wlogout` `thunar` `geany` `mpv` `mpd` `mpc` `viewnior` `imagemagick` `xfce-polkit` `xorg-xwayland`
   - After installing programs above, Copy Everything from _dotfiles_ to **`~/.config`** : `cp -r ./dotfiles/* ~/.config/` 
