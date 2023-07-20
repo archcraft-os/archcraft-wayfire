@@ -24,9 +24,9 @@ Wayfire is a wayland compositor based on wlroots. It aims to create a customizab
 ## Installation
 - Get the files from : [Ko-fi :coffee:](https://ko-fi.com/s/f379e986f4) <sup>[**`Why Paid`**](https://github.com/adi1090x/adi1090x/blob/master/WHY.md)</sup>
 - Extract The file **wayfire.tar.gz** with : `tar -xzvf wayfire.tar.gz`
-- If you are using **`Archcraft`** (`Required: 2023 or later`) as your OS, You can just install the provided package with : `sudo pacman -U archcraft-wayfire-3.0-3-any.pkg.tar.zst`
+- If you are using **`Archcraft`** (`Required: 2023 or later`) as your OS, You can just install the provided package with : `sudo pacman -U archcraft-wayfire-4.0-0-any.pkg.tar.zst`
 - If you want to install this setup on _Arch Linux_ or on any _other distro_, follow the points below :
-  - Install the following programs on your computer: `wayfire` `swaybg` `swayidle` `swaylock` `wlroots` `wl-clipboard` `waybar` `wofi`  `kanshi` `foot` `mako` `grim` `slurp` `wf-recorder` `light` `yad` `wlogout` `thunar` `geany` `mpv` `mpd` `mpc` `viewnior` `imagemagick` `xfce-polkit` `xorg-xwayland` `xdg-desktop-portal-wlr` `playerctl`
+  - Install the following programs on your computer: `wayfire` `swaybg` `swayidle` `swaylock` `wlroots` `wl-clipboard` `waybar` `wofi`  `kanshi` `foot` `mako` `grim` `slurp` `wf-recorder` `light` `yad` `wlogout` `thunar` `geany` `mpv` `mpd` `mpc` `viewnior` `imagemagick` `xfce-polkit` `xorg-xwayland` `xdg-desktop-portal-wlr` `playerctl` `pastel` `python-pywal` `alacritty` `rofi` `pulsemixer`
   - After installing programs above, Copy Everything from _dotfiles_ to **`~/.config`** : `cp -r ./dotfiles/* ~/.config/` 
   - Logout and login to your amazingly configured Wayfire.
 
@@ -44,11 +44,13 @@ Install the following `theme`, `icon pack`, `cursors` and `fonts` for overall ap
 ~/.config
 ├── wayfire.ini       : Master config file
 └── wayfire           : Shared Files
-    ├── foot          : Terminal config
+    ├── alacritty     : Alacritty Terminal config
+    ├── foot          : Foot Terminal config
     ├── mako          : Notification daemon config
     │   └── icons     : Notification icons
     ├── rofi          : Rofi config files
     ├── scripts       : Various scripts for functionality
+    ├── theme         : Current Theme and Pywal Themes
     ├── wallpapers    : Wallpapers
     ├── waybar        : Statusbar config
     ├── wlogout       : Wlogout config
@@ -56,9 +58,9 @@ Install the following `theme`, `icon pack`, `cursors` and `fonts` for overall ap
     └── wofi          : Launcher config
 ```
 
-> By default, **`wofi`** is used as app launcher.
+> By default, **[rofi](https://github.com/lbonn/rofi)** is used as app launcher.
 >
-> But, If you want to use **rofi** instead of **wofi**, First make sure you install the [wayland fork of rofi](https://github.com/lbonn/rofi). Edit the config file `~/.config/wayfire.ini` and uncomment rofi keybindings (and, comment the wofi stuff as well).
+> But, If you want to use **wofi** instead of **rofi**, Edit the config file `~/.config/wayfire.ini` and uncomment wofi keybindings (and, comment the rofi stuff as well).
 
 > By default, **`MPD`** is used on waybar for music.
 >
@@ -92,14 +94,23 @@ More Information: [NVIDIA#Installation](https://wiki.archlinux.org/title/NVIDIA#
 ### Keyboard
 | Keys | Action |
 | --- | --- |
-| <kbd>super + Return</kbd> | Open terminal |
-| <kbd>super + shift + Return</kbd> | Open terminal with custom geometry |
+| <kbd>super + Return</kbd> | Open terminal (alacritty)|
+| <kbd>super + shift + Return</kbd> | Open fullscreen terminal (alacritty) |
+| <kbd>super + Return</kbd> | Open terminal (foot)|
+| <kbd>super + shift + Return</kbd> | Open terminal with custom geometry (foot) |
 | <kbd>super + F</kbd> | Open file manager |
 | <kbd>super + E</kbd> | Open text editor |
 | <kbd>super + W</kbd> | Open web browser|
-| <kbd>super + D</kbd> | Run app launcher |
+| <kbd>super + D</kbd> | App launcher (rofi)|
+| <kbd>super + R</kbd> | Command Runner (rofi)|
+| <kbd>super + N</kbd> | Network Menu (rofi)|
+| <kbd>super + B</kbd> | Bluetooth Menu (rofi)|
+| <kbd>super + X</kbd> | Power Menu (rofi)|
+| <kbd>super + M</kbd> | Music Player (rofi)|
+| <kbd>super + S</kbd> | Screenshot Applet (rofi)|
+| <kbd>super + D</kbd> | Run app launcher (wofi)|
 | <kbd>super + N</kbd> | Open network manager |
-| <kbd>super + X</kbd> | Run session manager |
+| <kbd>super + X</kbd> | Run session manager (wlogout)|
 | <kbd>super + P</kbd> | Run colorpicker |
 | <kbd>super + C/Q</kbd> | Kill active window |
 | <kbd>ctrl + alt + L</kbd> | Run lockscreen |
